@@ -5,7 +5,7 @@ This project is a simple quiz application. The goal was to implement a complete 
 ---
 
 ## 🎥 Demo  
-(quiz-1wnhkbiua-varda-s-projects.vercel.app)  
+(https://quiz-app-nu-three-36.vercel.app/)  
 
 ---
 

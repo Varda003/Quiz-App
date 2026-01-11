@@ -4,10 +4,8 @@ This project is a simple quiz application. The goal was to implement a complete 
 
 ---
 
-## 🎥 Demo Video
-
-👉 **Demo Video:**  
-(https://github.com/Varda003)  
+## 🎥 Demo  
+(quiz-1wnhkbiua-varda-s-projects.vercel.app)  
 
 ---
 
